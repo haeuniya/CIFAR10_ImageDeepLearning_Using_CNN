@@ -1,0 +1,21 @@
+# CIFAR10_ImageDeepLearning_Using_CNN</br>
+CIFAR-10 image deep learning using CNN</br>
+영상 주소 : https://youtu.be/ZjpNhSiKAXQ</br>
+![슬라이드1](https://user-images.githubusercontent.com/82012381/200359612-0678b63f-218d-4b71-904e-67049cad2c24.PNG)
+![슬라이드3](https://user-images.githubusercontent.com/82012381/200359472-c6bac9d6-ae5b-4f2e-9677-901dced39b8e.PNG)
+![슬라이드4](https://user-images.githubusercontent.com/82012381/200359486-7d0d5d33-0585-47e5-af64-2a332bd77484.PNG)
+![슬라이드5](https://user-images.githubusercontent.com/82012381/200359493-6f563a2b-9c3b-417c-8f43-f4819afb877a.PNG)
+![슬라이드6](https://user-images.githubusercontent.com/82012381/200359497-8624db33-e85c-4fcb-9f09-98ccf3ef322c.PNG)
+![슬라이드7](https://user-images.githubusercontent.com/82012381/200359500-a98bfb13-f7a4-48f7-930a-c55126658ccc.PNG)
+![슬라이드8](https://user-images.githubusercontent.com/82012381/200359505-bc4ddeff-e4f1-4b77-9cf7-a6ac7610f0aa.PNG)
+![슬라이드9](https://user-images.githubusercontent.com/82012381/200359509-5c9226f2-de90-4208-8f4c-7b4744ba475f.PNG)
+![슬라이드10](https://user-images.githubusercontent.com/82012381/200359514-e015b745-0fba-46da-a943-7618688f55f2.PNG)
+![슬라이드11](https://user-images.githubusercontent.com/82012381/200359518-2eb0df11-28ec-4f9d-a480-9c6a929718af.PNG)
+![슬라이드12](https://user-images.githubusercontent.com/82012381/200359529-d127c219-8c93-4617-8601-9e6f1cd68832.PNG)
+![슬라이드13](https://user-images.githubusercontent.com/82012381/200359532-8dc8da2e-5baf-49db-a586-6dcf504bcf80.PNG)
+![슬라이드14](https://user-images.githubusercontent.com/82012381/200359533-f17929bb-4464-41f4-9c42-34976af48dda.PNG)
+![슬라이드15](https://user-images.githubusercontent.com/82012381/200359534-d288a061-dc24-4d0b-a75c-927fcfe9fcd7.PNG)
+![슬라이드16](https://user-images.githubusercontent.com/82012381/200359536-0f0cd944-e0d8-4fdd-a484-9e88216a5dc9.PNG)
+![슬라이드17](https://user-images.githubusercontent.com/82012381/200359538-e1be6239-6ea9-4ef2-b7c2-c01f7452ab85.PNG)
+![슬라이드18](https://user-images.githubusercontent.com/82012381/200359541-dd4cf6e0-89d8-4bea-89f0-8f39717b0230.PNG)
+![슬라이드19](https://user-images.githubusercontent.com/82012381/200359542-fc7042c1-647e-4c89-a627-e17f558bb7ff.PNG)
